@@ -1,7 +1,14 @@
-# cryptography with fernet
+<div align="center">
+  <h1>Fernet Cryptography</h1>
+  <h4><i>A Introduction to Basic Cryptography using Python with Fernet</i></h4>
+</div>
 
-basic cryptography in py
+### Requirements
+- Python
+- Cryptography Module
 
-you need cryptography module installed to run this script! feel free to use the code and feel free to suggest stuff 
+### Disclaimer
+If you encrypt anything and delete the key, I am not responsible for any damage caused.
 
-if you encrypt anything and delete the key i am not responsible for any damage caused 
+### Contributions
+Feel free to use the code and feel free to suggest stuff.
